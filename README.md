@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center"><img alt="sup seal gif" src="https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349" width="250" /></p>
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349))
+![](https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349)
 
 
 
