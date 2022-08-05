@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img alt="sup seal gif" src="https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349" width="250" /></p>
-![](https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349)
+<p align="center"><img alt="sup seal gif" src="https://raw.githubusercontent.com/Manumathew01/Manumathew01/main/more-power.gif" width="250" /></p>
 
 
 
