@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349 width="100"/>
-</div>
+<p align="center"><img alt="sup seal gif" src="https://tenor.com/view/more-power-home-improvement-tim-allen-drill-gif-16749349" width="250" /></p> 
+
 
 
 <!--
