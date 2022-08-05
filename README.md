@@ -1,6 +1,5 @@
-
-<p align="center">Yo!🍕</p> 
-<p align="center"><img alt="MORE POWERRR" src="https://raw.githubusercontent.com/reymon359/timeline-data/master/assets/other/sup_seal.gif" width="250" /></p> 
+ 
+<p align="center"><img alt="MORE POWERRR" src="https://raw.githubusercontent.com/Manumathew01/Manumathew01/main/more-power.gif" width="250" /></p> 
 
 
 
