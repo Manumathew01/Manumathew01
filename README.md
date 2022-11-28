@@ -1,5 +1,5 @@
  
-<p align="center"><img alt="MORE POWERRR" src="https://raw.githubusercontent.com/Manumathew01/Manumathew01/main/more-power.gif" width="250" /></p> 
+<p align="center">Hi there👋</p> 
 
 
 
